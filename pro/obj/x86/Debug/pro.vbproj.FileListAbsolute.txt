@@ -1,0 +1,13 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Form2.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Form3.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Help.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Menu.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\bin\Debug\Temperature.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\bin\Debug\Temperature.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\bin\Debug\Temperature.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\Temperature.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\Temperature.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\Temperature.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Form1.resources
